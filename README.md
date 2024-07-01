@@ -29,3 +29,5 @@ To move, zoom, or enhance the image, use the following key bindings:
 
 "U" is to zoom into the fractal contained within the cursor
 "I" is to reset the viewer to default settings
+
+The julia code within mdb_draw.py is still a work in progress.
